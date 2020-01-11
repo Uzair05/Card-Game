@@ -28,5 +28,5 @@ Please make sure to update tests as appropriate.
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-
+## Credits
 This project was made by [Uzair Bin Asim](https://uzair05.github.io/)
