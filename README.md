@@ -10,5 +10,23 @@ Then the player presses the *Results* button which allows they to see the result
 ## Usage
 Place the `src/` Folder and the `Images/` folder in the working directory and run the file `Main.java`.
 
+### Alternative method
+Compile all the java files and run using the command interface.
+
+You can use the code.
+```bash
+javac ./src/*.java
+mv ./src/*.class ./bin/
+java ./bin/Main.class
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
 
 This project was made by [Uzair Bin Asim](https://uzair05.github.io/)
